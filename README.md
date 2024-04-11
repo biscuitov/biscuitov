@@ -7,7 +7,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=lua&logoColor=2C2D72)
 ![CPP](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=biscuitov)](https://github.com/biscuitov/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=biscuitov&show_icons=true&theme=radical)
 <!--
 **biscuitov/biscuitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
