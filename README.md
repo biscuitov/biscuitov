@@ -8,6 +8,7 @@
 ![CPP](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=biscuitov&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscuitov&layout=compact&theme=radical)
 <!--
 **biscuitov/biscuitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
