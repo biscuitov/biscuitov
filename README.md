@@ -1,7 +1,7 @@
 ## Hi, I'm creating something special.
 
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=47C5FB)
-![Adobe Photoshop](https://img.shields.io/badge/-adobephotoshop-090909?style=for-the-badge&logo=photoshop&logoColor=47C5FB)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=47C5FB)
 <!--
 **biscuitov/biscuitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
