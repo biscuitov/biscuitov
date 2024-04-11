@@ -1,6 +1,6 @@
 ## Hi, I'm creating something special.
 
-
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=47C5FB)
 <!--
 **biscuitov/biscuitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
