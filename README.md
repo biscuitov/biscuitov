@@ -1,7 +1,8 @@
 
   <!--
 
-
+![Stats](https://github-readme-stats.vercel.app/api?username=biscuitov&show_icons=true&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscuitov&layout=compact&theme=radical)
 
 **biscuitov/biscuitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Stats](https://github-readme-stats.vercel.app/api?username=biscuitov&show_icons=true&layout=compact&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscuitov&layout=compact&theme=radical)
+
