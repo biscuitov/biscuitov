@@ -69,4 +69,7 @@
 </div>
 
 ###
-[![wakatime](https://wakatime.com/badge/user/01efb307-c139-4b8c-9868-62564c34ca50.svg)](https://wakatime.com/@01efb307-c139-4b8c-9868-62564c34ca50) [![wolfram](https://wakatime.com/badge/user/01efb307-c139-4b8c-9868-62564c34ca50/project/b483a376-c180-409a-9e87-21899ba749fb.svg)](https://wakatime.com/badge/user/01efb307-c139-4b8c-9868-62564c34ca50/project/b483a376-c180-409a-9e87-21899ba749fb)
+
+<h4 align="left">Wakatime</h4>
+
+[![wakatime](https://wakatime.com/badge/user/01efb307-c139-4b8c-9868-62564c34ca50.svg)](https://wakatime.com/@01efb307-c139-4b8c-9868-62564c34ca50)
