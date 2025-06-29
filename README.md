@@ -9,7 +9,8 @@ Senior DBA at Accenture Poland since 2022.
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=biscuitov&theme=dark&hide_border=true)<br/>
+[[![](https://nirzak-streak-stats.vercel.app/?user=biscuitov&theme=dark&hide_border=true)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=biscuitov&icon=0&color=0)](https://visitcount.itsvg.in)
+](https://api.githubtrends.io/user/svg/biscuitov/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://api.githubtrends.io/user/svg/biscuitov/langs?time_range=one_year&include_private=True&compact=True&theme=dark)
