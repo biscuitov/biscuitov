@@ -1,6 +1,6 @@
 # 💫 About Me:
 Wolfram Co-CEO, Naxe CEO. Creating a real one, not pet.<br>
-Senior DBA at Accenture Poland from 2022.
+Senior DBA at Accenture Poland since 2022.
 
 
 ## 🌐 Socials:
