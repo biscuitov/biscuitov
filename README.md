@@ -1,23 +1,42 @@
 ![Header Image](header.png)
 
-# 📗 About
-**FullStack Architect & DevOps Engineer**. Building bulletproof systems from database to UI.  
+# 👨‍💻 About Me
+**FullStack Architect & DevOps Engineer**  
+Building bulletproof systems from database to UI  
+
+---
 
 ### 🎓 Education
-#### Polish-Japanese Academy of Information Technology
-*BSc in IT, Database Administration & DevOps.*
+**Polish-Japanese Academy of Information Technology**  
+*BSc in IT | Database Administration & DevOps*  
+`2020 - 2023`
 
-### 💼 Professional Experience
-#### Wolfram 
-*Founder and Co-CEO of Wolfram. Wolfram is an IT services provider offering a wide range of solutions, including website development, desktop and mobile applications, as well as blockchain development, AI, and security standard implementation.*
+---
 
-#### Asseco 
-*Senior Database Administrator at Asseco Poland since 2022. Asseco Poland SA is a Polish multinational software company which develops enterprise software primarily for the banking and finance industries.*
+### 💻 Professional Experience
+**Wolfram** (Founder & Co-CEO)  
+*Full-spectrum IT solutions: Web/Mobile, Blockchain, AI*  
+`2021 - Present`
 
-#### Accenture
-*Middle Database Administrator and System Administrator at Accenture Poland (2019-2022). Accenture PLC is a global multinational professional services company originating in the United States and headquartered in Dublin, Ireland, that specializes in information technology services and management consulting.*
+**Asseco Poland** (Senior Database Administrator)  
+*Enterprise software for banking sector*  
+`2022 - Present` 
 
-# 📪 Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/apolanski13)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590658853884919868)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/aleksybiskwitow)
+**Accenture** (Middle DB/Systems Admin)  
+*Global IT infrastructure management*  
+`2019 - 2022`
+
+---
+
+### 📬 Contacts
+<p align="left">
+  <a href="https://t.me/apolanski13">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" height="28">
+  </a>
+  <a href="https://discord.com/users/590658853884919868">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="28">
+  </a>
+  <a href="https://www.behance.net/aleksybiskwitow">
+    <img src="https://img.shields.io/badge/-Behance-0054F7?style=flat&logo=behance&logoColor=white" height="28">
+  </a>
+</p>
