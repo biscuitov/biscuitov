@@ -2,7 +2,7 @@
 
 # 📗 About
 ### 🎓 Education
-### Polish-Japanese Academy of Information Technology
+#### Polish-Japanese Academy of Information Technology
 *BSc in IT, Database Administration & DevOps* (Graduated: 2023).
 
 ### 💼 Professional Experience
