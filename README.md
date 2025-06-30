@@ -1,6 +1,9 @@
 ![Header Image](header.png)
 
 # 📗 About
+**Daytona | FullStack Architect & DevOps Engineer**  
+Building bulletproof systems from database to UI.  
+
 ### 🎓 Education
 #### Polish-Japanese Academy of Information Technology
 *BSc in IT, Database Administration & DevOps* (Graduated: 2023).
