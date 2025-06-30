@@ -1,11 +1,11 @@
 ![Header Image](header.png)
 
 # 📗 About
-## Education
+## 🎓 Education
 ### Polish-Japanese Academy of Information Technology
 *BSc in IT, Database Administration & DevOps* (Graduated: 2023).
 
-## Professional Experience
+## 💼 Professional Experience
 ### Wolfram 
 *Founder and Co-CEO of Wolfram. Wolfram is an IT services provider offering a wide range of solutions, including website development, desktop and mobile applications, as well as blockchain development, AI, and security standard implementation.*
 ### Asseco 
