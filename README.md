@@ -6,11 +6,11 @@
 *BSc in IT, Database Administration & DevOps* (Graduated: 2023).
 
 ### 💼 Professional Experience
-### Wolfram 
+#### Wolfram 
 *Founder and Co-CEO of Wolfram. Wolfram is an IT services provider offering a wide range of solutions, including website development, desktop and mobile applications, as well as blockchain development, AI, and security standard implementation.*
-### Asseco 
+#### Asseco 
 *Senior Database Administrator at Asseco Poland since 2022. Asseco Poland SA is a Polish multinational software company which develops enterprise software primarily for the banking and finance industries.*
-### Accenture
+#### Accenture
 *Middle Database Administrator and System Administrator at Accenture Poland (2019-2022). Accenture PLC is a global multinational professional services company originating in the United States and headquartered in Dublin, Ireland, that specializes in information technology services and management consulting.*
 
 # 📪 Contact me
