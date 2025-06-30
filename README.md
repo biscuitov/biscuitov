@@ -22,7 +22,7 @@ Building bulletproof systems from database to UI
 *Enterprise software for banking sector*  
 `2022 - Present` 
 
-**Accenture** (Middle DB/Systems Admin)  
+**Accenture** (Middle DB/DevOps)  
 *Global IT infrastructure management*  
 `2019 - 2022`
 
