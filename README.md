@@ -1,6 +1,6 @@
 ![Header Image](header.png)
 
-#📗 About
+# 📗 About
 Crafting the real one, not pet. Wolfram Co-CEO.
 
 # 📪 Contact me
