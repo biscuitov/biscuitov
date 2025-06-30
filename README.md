@@ -20,7 +20,7 @@ Building bulletproof systems from database to UI
 
 **Asseco Poland** (Senior Database Administrator)  
 *Enterprise software for banking sector*  
-`2022 - Present` 
+`2022 - 2025` 
 
 **Accenture** (Middle DB/DevOps)  
 *Global IT infrastructure management*  
